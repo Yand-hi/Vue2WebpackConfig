@@ -1,0 +1,36 @@
+{
+  "name": "vue2webpackconfig",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.25.0",
+    "element-ui": "^2.15.6",
+    "vue": "^2.6.14"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11",
+    "babel-loader": "^8.2.3",
+    "css-loader": "^6.5.1",
+    "sass-loader": "^12.4.0",
+    "style-loader": "^3.3.1",
+    "vue-loader": "^15.9.8",
+    "vue-template-compiler": "^2.6.14",
+    "webpack": "^5.68.0",
+    "webpack-cli": "^4.9.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yand-hi/Vue2WebpackConfig.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Yand-hi/Vue2WebpackConfig/issues"
+  },
+  "homepage": "https://github.com/Yand-hi/Vue2WebpackConfig#readme"
+}
