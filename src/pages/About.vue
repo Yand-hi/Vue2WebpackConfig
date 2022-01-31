@@ -1,7 +1,8 @@
 <template>
   <div>
-    <h1>我是 App.Vue !</h1>
-    <router-view></router-view>
+    我是关于页面
+    <hr />
+    <router-link to="/"> 前往 Home 页面 </router-link>
   </div>
 </template>
 
