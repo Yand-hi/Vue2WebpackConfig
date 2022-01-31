@@ -21,14 +21,16 @@
     "webpack-cli": "^4.9.2"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "serve": "webpack --mode=development --watch",
+    "build": "webpack --mode=production"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/Yand-hi/Vue2WebpackConfig.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/Yand-hi/Vue2WebpackConfig/issues"
   },
